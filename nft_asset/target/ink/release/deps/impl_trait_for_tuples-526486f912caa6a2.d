@@ -1,0 +1,8 @@
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/ink/release/deps/libimpl_trait_for_tuples-526486f912caa6a2.dylib: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/full_automatic.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/utils.rs
+
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/ink/release/deps/impl_trait_for_tuples-526486f912caa6a2.d: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/full_automatic.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/utils.rs
+
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/lib.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/full_automatic.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.2/src/utils.rs:

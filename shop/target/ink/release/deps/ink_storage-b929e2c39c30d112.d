@@ -1,0 +1,10 @@
+/Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/target/ink/release/deps/libink_storage-b929e2c39c30d112.rmeta: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs
+
+/Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/target/ink/release/deps/libink_storage-b929e2c39c30d112.rlib: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs
+
+/Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/target/ink/release/deps/ink_storage-b929e2c39c30d112.d: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs
+
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs:

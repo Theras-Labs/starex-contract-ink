@@ -1,0 +1,10 @@
+/Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/target/ink/release/deps/libsecp256k1_sys-2bcbeb640111ea46.rmeta: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/macros.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/types.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/recovery.rs
+
+/Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/target/ink/release/deps/libsecp256k1_sys-2bcbeb640111ea46.rlib: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/macros.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/types.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/recovery.rs
+
+/Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/target/ink/release/deps/secp256k1_sys-2bcbeb640111ea46.d: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/macros.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/types.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/recovery.rs
+
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/lib.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/macros.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/types.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.9.2/src/recovery.rs:

@@ -1,0 +1,10 @@
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/ink/release/deps/libink_storage-0d2646c7a16139f9.rmeta: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs
+
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/ink/release/deps/libink_storage-0d2646c7a16139f9.rlib: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs
+
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/ink/release/deps/ink_storage-0d2646c7a16139f9.d: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs
+
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs:

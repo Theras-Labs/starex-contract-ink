@@ -1,0 +1,9 @@
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/debug/deps/libink_storage_traits-8488d0364a9231d9.rmeta: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/impls/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/storage.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/layout/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/layout/impls.rs
+
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/debug/deps/ink_storage_traits-8488d0364a9231d9.d: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/impls/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/storage.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/layout/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/layout/impls.rs
+
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/lib.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/impls/mod.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/storage.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/layout/mod.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-5.0.0/src/layout/impls.rs:

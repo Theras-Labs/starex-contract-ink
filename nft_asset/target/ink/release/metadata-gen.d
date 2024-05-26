@@ -1,0 +1,1 @@
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/ink/release/metadata-gen: /Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/lib.rs /private/var/folders/1r/sdqdmjyd6wzgpq6xyx318t6r0000gn/T/cargo-contract_9zB5PX/.ink/metadata_gen/main.rs

@@ -1,0 +1,11 @@
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/ink/release/deps/libwyz-f4c652ee75f3c3f6.rmeta: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/bidi.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/comu.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/fmt.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/range.rs
+
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/ink/release/deps/libwyz-f4c652ee75f3c3f6.rlib: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/bidi.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/comu.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/fmt.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/range.rs
+
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/ink/release/deps/wyz-f4c652ee75f3c3f6.d: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/bidi.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/comu.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/fmt.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/range.rs
+
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/lib.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/bidi.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/comu.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/fmt.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wyz-0.5.1/src/range.rs:

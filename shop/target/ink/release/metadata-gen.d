@@ -1,0 +1,1 @@
+/Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/target/ink/release/metadata-gen: /Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/lib.rs /private/var/folders/1r/sdqdmjyd6wzgpq6xyx318t6r0000gn/T/cargo-contract_V2wRe5/.ink/metadata_gen/main.rs

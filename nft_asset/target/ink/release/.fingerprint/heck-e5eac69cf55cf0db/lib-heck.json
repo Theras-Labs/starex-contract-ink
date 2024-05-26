@@ -1,0 +1,1 @@
+{"rustc":12152928357286724068,"features":"[\"default\"]","target":11271119367433188140,"profile":47380390694744114,"path":12483621489996339761,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/heck-e5eac69cf55cf0db/dep-lib-heck"}}],"rustflags":["--cap-lints=allow","-Clink-dead-code"],"metadata":4968006677088137060,"config":2202906307356721367,"compile_kind":0}

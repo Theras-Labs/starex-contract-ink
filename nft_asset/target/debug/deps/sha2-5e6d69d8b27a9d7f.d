@@ -1,0 +1,11 @@
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/debug/deps/libsha2-5e6d69d8b27a9d7f.rmeta: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/core_api.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha256.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha512.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/consts.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha256/soft.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha512/soft.rs
+
+/Users/dellwatson/Desktop/hackathon-opensource/ink-examples/erc1155/target/debug/deps/sha2-5e6d69d8b27a9d7f.d: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/core_api.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha256.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha512.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/consts.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha256/soft.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha512/soft.rs
+
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/lib.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/core_api.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha256.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha512.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/consts.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha256/soft.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.8/src/sha512/soft.rs:

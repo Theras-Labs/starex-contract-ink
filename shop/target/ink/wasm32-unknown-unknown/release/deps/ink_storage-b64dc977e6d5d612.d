@@ -1,0 +1,10 @@
+/Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/target/ink/wasm32-unknown-unknown/release/deps/libink_storage-b64dc977e6d5d612.rmeta: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs
+
+/Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/target/ink/wasm32-unknown-unknown/release/deps/libink_storage-b64dc977e6d5d612.rlib: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs
+
+/Users/dellwatson/Desktop/starex-ink-contract/starex-ink/shop/target/ink/wasm32-unknown-unknown/release/deps/ink_storage-b64dc977e6d5d612.d: /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs /Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs
+
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lib.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mod.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/mapping.rs:
+/Users/dellwatson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage-5.0.0/src/lazy/vec.rs:
