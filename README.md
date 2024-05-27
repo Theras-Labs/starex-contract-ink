@@ -6,16 +6,16 @@ This document outlines the development process of an ink contract, aiming to tra
 
 ### Current Status
 
-The development team is relatively new to ink smart contract development. Challenges have been encountered during the integration with delegate call and differences between v4 and v5, highlighting the learning curve associated with ink contract development.
+The developer is relatively new to ink smart contract development. Challenges have been encountered during the integration with delegate call and differences between v4 and v5, highlighting the learning curve associated with ink contract development.
 
-### Missing Goals
+### Missing Goals | on Ink Next Steps
 
 - **Upgradeable Contract**: Ensure the contract's upgradability to accommodate future enhancements and optimizations.
 - **Offchain Integration**: Integrate offchain functionalities using EIP712 or ECDSA for enhanced security and efficiency.
-- **Airdrop NFT Pool**: Implement a mechanism for distributing NFTs through airdrops.
-- **Staking**: Develop staking functionalities to incentivize participation and secure the network.
-- **Tokenized System**: Create a tokenized ecosystem within the contract for managing assets and transactions.
+- **Airdrop NFT Pool**: Implement a mechanism for NFTs pool through airdrops and for airdrops.
 - **Payment Integration**: Enable payment functionalities with ERC20 and PSP-22 standards for interoperability and versatility.
+- **Tokenized System**: Create a tokenized ecosystem within the contract for managing assets and transactions.
+- **Staking**: Develop staking functionalities to incentivize participation and secure the network.
 
 ## Development Process
 
