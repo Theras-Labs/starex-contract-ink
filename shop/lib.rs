@@ -32,7 +32,7 @@ mod shop_contract {
     #[derive(Default)]
     pub struct TherasShop {
         // other_contract: OtherContractRef,
-        // contract signer
+        // contract signer -> OFFCHAIN
         // FEE
     }
 
